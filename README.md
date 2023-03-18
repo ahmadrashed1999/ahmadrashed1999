@@ -1,4 +1,4 @@
-![logo](https://github.com/ahmadrashed1999/ahmadrashed1999/blob/main/github-banner.jpg)
+![logo](https://github.com/ahmadrashed1999/ahmadrashed1999/blob/main/github-logo.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ahmad Albarghash</h1>
