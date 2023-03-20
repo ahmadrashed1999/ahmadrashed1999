@@ -28,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrashed1999&show_icons=true&locale=en" alt="ahmadrashed1999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrashed1999&" alt="ahmadrashed1999" /></p>
-![image](https://github.com/ahmadrashed1999/ahmadrashed1999/blob/main/github-contribution-grid-snake.gif)
+<p><img align="center" src="https://github.com/ahmadrashed1999/ahmadrashed1999/blob/main/github-contribution-grid-snake.gif" alt="ahmadrashed1999" /></p>
 
