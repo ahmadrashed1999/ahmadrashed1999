@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/61083422/226100839-40cf8b85-764a-4400-b6cf-bd978034da5b.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrashed1999&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrashed1999" /> </p>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://ahmadrashed1999.github.io/personal-website/](https://ahmadrashed1999.github.io/personal-website/)
 
