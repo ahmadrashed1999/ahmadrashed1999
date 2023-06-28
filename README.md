@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmadrashed1999.github.io/personal-website/](https://ahmadrashed1999.github.io/personal-website/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L5RRfoMNpsu6-KxJZg-dHfoTSxBGJIU8/view?usp=sharing](https://drive.google.com/file/d/1L5RRfoMNpsu6-KxJZg-dHfoTSxBGJIU8/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1gQ_Fc6Y14ciioIqDgEgum6qAeqjGZIe0/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
